@@ -17,9 +17,11 @@ function solution(A, K) {
 //Rotates the Array
 function rotate(array, times){
     
+    //Pivot Variables
     let pivot;
     let pivot2;
     
+    //Changing the times that the program asks
     for(let j = 0; j < times; j++){
         
         //Changes the first and the last element
@@ -28,9 +30,9 @@ function rotate(array, times){
         
         //Changing the others
         for(let i = 1; i < array.length; i++){
-            pivot2 = array[i] //8
-            array[i] = pivot; //3
-            pivot = pivot2; //8
+            pivot2 = array[i]
+            array[i] = pivot;
+            pivot = pivot2;
         }
         
     }
