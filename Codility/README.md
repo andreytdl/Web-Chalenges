@@ -7,3 +7,7 @@
 [Cyclic Rotation](./Cyclic-Rotation)
 
 [Odd occurrences in array](./Odd-Ocurrences-In-Array)
+
+[Frog Jmp](./Frog-Jmp)
+
+[Reverse Array - Bônus](./Reverse-Array)
