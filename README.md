@@ -1,2 +1,3 @@
 # Web-Chalenges
-Codility challenges I solved :)
+
+[Codility Challenges](./Codility)

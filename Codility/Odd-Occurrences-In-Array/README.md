@@ -1,3 +1,4 @@
+<a href ="https://www.codility.com/"><img src="../images/codility.png"/><br></a>
 # Odd ocurrences in array
 
 ## Task description
