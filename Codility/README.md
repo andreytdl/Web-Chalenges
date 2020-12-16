@@ -11,3 +11,5 @@
 [Frog Jmp](./Frog-Jmp)
 
 [Reverse Array - Bônus](./Reverse-Array)
+
+[Perm Missing Elem](./Perm-Missing-Elem)
